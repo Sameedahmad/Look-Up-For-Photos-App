@@ -1,2 +1,3 @@
 # Look-Up-For-Photos-App
-Created with CodeSandbox
+
+Api needs to be set up for it.
